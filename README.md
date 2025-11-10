@@ -1,6 +1,11 @@
+tests/
 # my_package
 
+![license](https://img.shields.io/badge/license-MIT-green.svg)
+
 这是一个最小的 Python 项目骨架（空项目）。
+
+许可证：MIT（见项目根目录的 `LICENSE` 文件）。
 
 快速开始：
 
